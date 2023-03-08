@@ -215,7 +215,21 @@ import cv2
 ```
 Avant de commencer notre application on doit configurer bibliothèque cv2 , pour cela cliquez sue : File > Preferences > settings 
 ![image](https://user-images.githubusercontent.com/123757632/223664080-56e18291-c6ef-4110-9c1c-cd7a2c7cee00.png)
-Puis Cliquez sur l'
+
+Puis Cliquez sur l'icone toute en droit :
+
+![image](https://user-images.githubusercontent.com/123757632/223665001-496f2c39-5822-42ef-9cad-df1f6419d098.png)
+
+Et inserez la ligne suivante : 
+```
+"pylint.args": ["cv2"]
+```
+
+Résultat : 
+
+![image](https://user-images.githubusercontent.com/123757632/223665317-f0b9fc27-9e7d-45ce-8556-845959df776c.png)
+
+
 
 Definir que notre application est une application flask
 
