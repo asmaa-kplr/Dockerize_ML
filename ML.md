@@ -213,6 +213,10 @@ from flask import Flask, request, render_template
 from werkzeug.utils import secure_filename
 import cv2
 ```
+Avant de commencer notre application on doit configurer bibliothèque cv2 , pour cela cliquez sue : File > Preferences > settings 
+![image](https://user-images.githubusercontent.com/123757632/223664080-56e18291-c6ef-4110-9c1c-cd7a2c7cee00.png)
+Puis Cliquez sur l'
+
 Definir que notre application est une application flask
 
 ```
